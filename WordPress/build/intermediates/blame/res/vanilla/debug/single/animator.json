@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/animator/fragment_slide_in_from_right.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/animator/fragment_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/animator/fragment_slide_out_to_right.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/animator/fragment_slide_out_to_right.xml"
+    }
+]

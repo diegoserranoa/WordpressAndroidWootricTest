@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <bool name="allow_rotation">true</bool>
+    <bool name="isTablet">true</bool>
+    <bool name="is_screen_large">true</bool>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="content_margin">@dimen/content_margin_tablet</dimen>
+    <dimen name="default_dialog_width">480dp</dimen>
+    <dimen name="design_navigation_max_width">320dp</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">0dp</dimen>
+    <dimen name="design_snackbar_background_corner_radius">2dp</dimen>
+    <dimen name="design_snackbar_extra_spacing_horizontal">24dp</dimen>
+    <dimen name="design_snackbar_max_width">576dp</dimen>
+    <dimen name="design_snackbar_min_width">320dp</dimen>
+    <dimen name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical</dimen>
+    <dimen name="design_tab_scrollable_min_width">160dp</dimen>
+    <dimen name="fab_margin">@dimen/fab_margin_tablet</dimen>
+    <item format="float" name="hs__tablet_dialog_horizontal_scale" type="dimen">0.8</item>
+    <item format="float" name="hs__tablet_dialog_vertical_scale" type="dimen">0.8</item>
+    <dimen name="menu_item_margin">@dimen/menu_item_margin_tablet</dimen>
+    <dimen name="notifications_content_margin">@dimen/content_margin</dimen>
+    <dimen name="notifications_list_margin">48dp</dimen>
+    <dimen name="postlist_featured_image_height">@dimen/postlist_featured_image_height_tablet</dimen>
+    <dimen name="reader_card_margin">@dimen/reader_card_margin_tablet</dimen>
+    <dimen name="reader_detail_margin">@dimen/reader_detail_margin_tablet</dimen>
+    <dimen name="reader_featured_image_height">@dimen/reader_featured_image_height_tablet</dimen>
+    <dimen name="tabstrip_icon_spacing">@dimen/tabstrip_icon_spacing_tablet</dimen>
+    <dimen name="wootric_button_size">42dp</dimen>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <integer name="isSW600DP">1</integer>
+    <integer name="media_editor_save_button_visibility">@integer/visible</integer>
+    <integer name="media_grid_num_columns">3</integer>
+    <integer name="smallest_width_dp">600</integer>
+    <string name="hs__screen_type" translatable="false">7-inch-tablet</string>
+    <style name="Helpshift.Theme.Activity" ns1:targetApi="11" parent="@style/Helpshift.Theme.Base">
+    <item name="android:colorBackgroundCacheHint">@null</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowCloseOnTouchOutside">true</item>
+    <item name="android:windowActionModeOverlay">true</item>
+  </style>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+    <style name="WordPress.BorderedBackground">
+        <item name="android:layout_marginLeft">@dimen/notifications_list_margin</item>
+        <item name="android:layout_marginRight">@dimen/notifications_list_margin</item>
+        <item name="android:background">@drawable/calypso_bordered_bg</item>
+        <item name="android:paddingLeft">1dp</item>
+        <item name="android:paddingRight">1dp</item>
+    </style>
+</resources>

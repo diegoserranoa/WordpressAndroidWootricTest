@@ -1,0 +1,5 @@
+-keep public class com.optimizely.OptimizelyViewModule {*;}
+-keepnames public class com.optimizely.PreviewExpsActivity
+-keepnames public class com.optimizely.PreviewVarsActivity
+-keepnames public class com.optimizely.PreviewExpsActivity
+-keepnames public class com.optimizely.PreviewExpsActivity

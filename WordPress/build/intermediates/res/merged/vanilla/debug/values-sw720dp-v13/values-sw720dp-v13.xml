@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <bool name="is_screen_large">true</bool>
+    <dimen name="format_bar_height">50dp</dimen>
+    <item format="float" name="hs__tablet_dialog_horizontal_scale" type="dimen">0.8</item>
+    <item format="float" name="hs__tablet_dialog_vertical_scale" type="dimen">0.8</item>
+    <dimen name="postlist_featured_image_height">@dimen/postlist_featured_image_height_tablet_large</dimen>
+    <dimen name="reader_featured_image_height">@dimen/reader_featured_image_height_tablet_large</dimen>
+    <dimen name="settings_padding">200dp</dimen>
+    <dimen name="stats_barchart_height">200dp</dimen>
+    <dimen name="theme_details_dialog_height">500dp</dimen>
+    <dimen name="theme_details_dialog_min_width">650dp</dimen>
+    <integer name="smallest_width_dp">720</integer>
+    <integer name="themes_grid_num_columns">3</integer>
+    <string name="hs__screen_type" translatable="false">10-inch-tablet</string>
+    <style name="Helpshift.Theme.Activity" ns1:targetApi="11" parent="@style/Helpshift.Theme.Base">
+    <item name="android:colorBackgroundCacheHint">@null</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowCloseOnTouchOutside">true</item>
+    <item name="android:windowActionModeOverlay">true</item>
+  </style>
+    <style name="WordPressSectionHeader" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#FFFFFFFF</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:layout_marginTop">1px</item>
+        <item name="android:layout_marginRight">1px</item>
+        <item name="android:layout_marginLeft">1px</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingTop">2dp</item>
+    </style>
+    <style name="WordPressTitleAppearance" parent="@android:style/TextAppearance">
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#BB000000</item>
+        <item name="android:shadowRadius">2.75</item>
+        <item name="android:textColor">#FFF6F6F6</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

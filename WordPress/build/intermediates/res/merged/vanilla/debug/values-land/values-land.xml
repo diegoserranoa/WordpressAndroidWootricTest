@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="limit_to_single_line">true</bool>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="content_margin">@dimen/content_margin_normal_landscape</dimen>
+    <dimen name="notifications_content_margin">@dimen/content_margin</dimen>
+    <dimen name="reader_card_margin">@dimen/reader_card_margin_normal_landscape</dimen>
+    <dimen name="reader_detail_margin">@dimen/reader_detail_margin_normal_landscape</dimen>
+    <dimen name="tabstrip_icon_spacing">@dimen/tabstrip_icon_spacing_landscape</dimen>
+    <integer name="media_grid_num_columns">3</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+    <style name="WordPressWelcomeStyle">
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:paddingBottom">20dp</item>
+    </style>
+</resources>

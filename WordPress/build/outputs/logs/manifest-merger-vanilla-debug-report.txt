@@ -1,0 +1,1318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:2:1-516:12
+	package
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:2:11-42
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:4:11-57
+	xmlns:android
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:5:11-41
+supports-screens
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:7:5-11:39
+	android:largeScreens
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:10:9-37
+	android:anyDensity
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:8:9-34
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:14:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:15:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.automattic:rest:1.0.7] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.automattic/rest/1.0.7/AndroidManifest.xml:11:5-67
+MERGED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:11:5-67
+MERGED from [com.automattic:rest:1.0.7] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.automattic/rest/1.0.7/AndroidManifest.xml:11:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.6.4/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:16:5-79
+MERGED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:12:5-79
+MERGED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:16:22-76
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:17:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:18:5-90
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:18:22-87
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:21:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:22:5-71
+MERGED from [org.wordpress:WordPressUtils:1.10.0:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressUtils/1.10.0/debug/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:22:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:23:5-81
+MERGED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:25:22-78
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:28:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:29:22-65
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:32:5-34:47
+	android:protectionLevel
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:33:9-63
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:36:22-76
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:39:9-47
+uses-feature#android.hardware.location
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:42:9-49
+uses-feature#android.hardware.location.gps
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:44:5-46:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:46:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:45:9-53
+uses-feature#android.hardware.location.network
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:47:5-49:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:49:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:48:9-57
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:50:5-52:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:52:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:51:9-52
+uses-feature#android.hardware.screen.portrait
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:53:5-55:36
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:55:9-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:54:9-56
+application
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:57:5-515:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/AndroidManifest.xml:11:5-20
+MERGED from [com.optimizely:optimizely:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely/1.5.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.optimizely:optimizely-core:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-core/1.5.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [org.wordpress:mediapicker:1.2.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/mediapicker/1.2.4/AndroidManifest.xml:11:5-14:44
+MERGED from [com.android.support:support-v13:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:percent:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/percent/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:15:5-49:19
+MERGED from [org.wordpress:emailchecker2:1.1.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/emailchecker2/1.1.0/AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [org.wordpress:slidinguppanel:1.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/slidinguppanel/1.0.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:support-v13:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.6.4/AndroidManifest.xml:44:5-124:19
+MERGED from [org.wordpress:WordPressEditor:1.2:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:63:9-41
+	android:supportsRtl
+		ADDED from [org.wordpress:emailchecker2:1.1.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/emailchecker2/1.1.0/AndroidManifest.xml:12:9-35
+	android:hardwareAccelerated
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:61:9-43
+	android:fullBackupContent
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:60:9-55
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.6.4/AndroidManifest.xml:44:18-44
+	android:allowBackup
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:59:9-35
+		REJECTED from [org.wordpress:mediapicker:1.2.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/mediapicker/1.2.4/AndroidManifest.xml:12:9-35
+		REJECTED from [org.wordpress:emailchecker2:1.1.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/emailchecker2/1.1.0/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:62:9-40
+		REJECTED from [org.wordpress:mediapicker:1.2.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/mediapicker/1.2.4/AndroidManifest.xml:13:9-45
+	android:largeHeap
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:64:9-33
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:65:9-41
+	tools:replace
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:66:9-42
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:58:9-34
+activity#org.wordpress.android.ui.WPLaunchActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:67:9-75:20
+	android:noHistory
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:69:13-37
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:70:13-59
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:68:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.MAIN
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:73:17-77
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:73:27-74
+activity#org.wordpress.android.ui.main.WPMainActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:78:9-80:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:80:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:79:13-51
+activity#org.wordpress.android.ui.accounts.SignInActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:83:9-96:20
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:87:13-55
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:85:13-74
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:86:13-47
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:84:13-55
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:88:13-95:29
+action#android.intent.action.VIEW
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:89:17-69
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:89:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:90:17-76
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:90:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:91:17-78
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:91:27-75
+data
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:92:17-94:50
+	android:host
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:93:21-42
+	android:scheme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:94:21-47
+activity#org.wordpress.android.ui.accounts.NewBlogActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:98:9-102:58
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:102:13-55
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:100:13-74
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:101:13-47
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:99:13-56
+activity#org.wordpress.android.ui.accounts.HelpActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:103:9-106:69
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:105:13-29
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:106:13-66
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:104:13-53
+activity#org.wordpress.android.ui.prefs.AboutActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:110:9-112:66
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:112:13-63
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:111:13-51
+activity#org.wordpress.android.ui.prefs.BlogPreferencesActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:113:9-117:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:116:13-45
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:115:13-59
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:117:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:114:13-61
+activity#org.wordpress.android.ui.prefs.LicensesActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:118:9-120:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:120:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:119:13-54
+activity#org.wordpress.android.ui.prefs.AccountSettingsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:121:9-125:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:124:13-53
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:123:13-59
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:125:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:122:13-61
+activity#org.wordpress.android.ui.prefs.AppSettingsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:126:9-130:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:129:13-56
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:128:13-66
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:130:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:127:13-57
+activity#org.wordpress.android.ui.prefs.notifications.NotificationsSettingsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:131:9-134:51
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:133:13-59
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:134:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:132:13-81
+activity#org.wordpress.android.networking.SSLCertsViewActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:135:9-137:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:137:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:136:13-60
+activity#org.wordpress.android.ui.comments.CommentsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:140:9-142:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:142:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:141:13-57
+activity#org.wordpress.android.ui.comments.CommentDetailActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:143:9-146:57
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:146:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:145:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:144:13-62
+activity#org.wordpress.android.ui.comments.EditCommentActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:147:9-149:51
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:149:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:148:13-60
+activity#org.wordpress.android.ui.posts.AddCategoryActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:152:9-155:67
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:154:13-53
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:155:13-64
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:153:13-57
+activity#org.wordpress.android.editor.legacy.EditLinkActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:156:9-160:58
+MERGED from [org.wordpress:WordPressEditor:1.2:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/AndroidManifest.xml:12:9-89
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:158:13-50
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:160:13-55
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:159:13-64
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:157:13-59
+activity#org.wordpress.android.ui.posts.EditPostActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:161:9-173:20
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:165:13-67
+	android:configChanges
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:163:13-74
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:164:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:162:13-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:166:13-168:63
+	android:value
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:168:17-60
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:167:17-63
+intent-filter#android.intent.action.MAIN
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:170:13-172:29
+activity-alias#org.wordpress.android.ui.posts.PostsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:175:9-182:26
+	android:enabled
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:177:13-35
+	android:targetActivity
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:178:13-58
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:176:13-51
+activity#org.wordpress.android.ui.posts.PostsListActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:184:9-186:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:186:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:185:13-55
+activity#org.wordpress.android.ui.posts.PostPreviewActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:187:9-190:58
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:189:13-49
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:190:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:188:13-57
+activity#org.wordpress.android.ui.posts.SelectCategoriesActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:191:9-193:51
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:193:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:192:13-62
+activity#org.wordpress.android.ui.plans.PlansActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:196:9-197:63
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:197:19-61
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:196:19-57
+activity#org.wordpress.android.ui.plans.PlanPostPurchaseActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:198:9-199:63
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:199:19-61
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:198:19-68
+activity#org.wordpress.android.ui.stats.StatsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:202:9-204:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:204:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:203:13-51
+activity#org.wordpress.android.ui.stats.StatsViewAllActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:205:9-207:51
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:207:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:206:13-58
+activity#org.wordpress.android.ui.stats.StatsSingleItemDetailsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:208:9-210:51
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:210:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:209:13-68
+activity#org.wordpress.android.ui.stats.StatsWidgetConfigureActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:211:9-218:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:213:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:214:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:212:13-66
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:215:13-217:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:216:17-87
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:216:25-84
+activity#org.wordpress.android.ui.WPWebViewActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:219:9-221:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:221:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:220:13-49
+activity#org.wordpress.android.ui.media.MediaPickerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:224:9-227:57
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:227:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:226:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:225:13-57
+activity#org.wordpress.android.ui.media.MediaBrowserActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:228:9-230:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:230:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:229:13-58
+activity#org.wordpress.android.ui.media.MediaGalleryActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:231:9-67
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:231:19-64
+activity#org.wordpress.android.ui.media.MediaGalleryPickerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:232:9-73
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:232:19-70
+activity#org.wordpress.android.ui.themes.ThemeBrowserActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:235:9-237:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:237:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:236:13-59
+activity#org.wordpress.android.ui.themes.ThemeWebActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:238:9-245:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:240:13-51
+	android:parentActivityName
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:241:13-73
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:239:13-55
+activity#org.wordpress.android.ui.DeepLinkingIntentReceiverActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:248:9-261:20
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:250:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:249:13-65
+activity#org.wordpress.android.ui.reader.ReaderPostListActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:264:9-268:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:266:13-43
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:267:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:265:13-61
+activity#org.wordpress.android.ui.reader.ReaderPostPagerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:269:9-273:58
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:271:13-61
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:273:13-55
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:272:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:270:13-62
+activity#org.wordpress.android.ui.reader.ReaderCommentListActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:274:9-278:70
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:276:13-58
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:278:13-67
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:277:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:275:13-64
+activity#org.wordpress.android.ui.AppLogViewerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:279:9-282:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:281:13-56
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:282:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:280:13-52
+activity#org.wordpress.android.ui.reader.ReaderUserListActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:283:9-285:58
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:285:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:284:13-61
+activity#org.wordpress.android.ui.reader.ReaderSubsActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:286:9-290:57
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:288:13-54
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:290:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:289:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:287:13-57
+activity#org.wordpress.android.ui.reader.ReaderPhotoViewerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:291:9-293:61
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:293:13-58
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:292:13-64
+activity#org.wordpress.android.ui.ShareIntentReceiverActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:297:9-310:20
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:299:13-60
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:298:13-59
+intent-filter#android.intent.action.SEND+android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:300:13-309:29
+action#android.intent.action.SEND
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:301:17-69
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:301:25-66
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:302:17-78
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:302:25-75
+activity#org.wordpress.android.ui.AddQuickPressShortcutActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:312:9-320:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:314:13-49
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:313:13-61
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:315:13-319:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:316:17-80
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:316:25-77
+activity#org.wordpress.android.ui.main.SitePickerActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:322:9-325:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:324:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:325:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:323:13-55
+activity#org.wordpress.android.ui.notifications.NotificationsDetailActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:328:9-330:51
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:330:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:329:13-73
+activity#org.wordpress.passcodelock.PasscodeUnlockActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:333:9-336:57
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:336:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:335:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:334:13-77
+activity#org.wordpress.passcodelock.PasscodeManagePasswordActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:337:9-340:57
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:340:13-54
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:339:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:338:13-85
+activity#org.wordpress.android.ui.people.PeopleManagementActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:343:9-346:57
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:345:13-43
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:346:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:344:13-63
+activity#org.wordpress.android.ui.prefs.MyProfileActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:349:9-352:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:351:13-47
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:352:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:350:13-55
+activity#org.wordpress.android.ui.VisualEditorOptionsReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:354:9-365:20
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:354:19-65
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:368:9-370:71
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:370:13-69
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:369:13-60
+service#org.wordpress.android.ui.posts.services.PostUploadService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:373:9-375:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:375:13-48
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:374:13-64
+service#org.wordpress.android.ui.posts.services.PostMediaService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:376:9-379:50
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:379:13-47
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:378:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:377:13-63
+service#org.wordpress.android.ui.posts.services.PostUpdateService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:380:9-383:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:383:13-48
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:382:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:381:13-64
+service#org.wordpress.android.ui.media.services.MediaUploadService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:384:9-386:52
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:386:13-49
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:385:13-65
+service#org.wordpress.android.ui.media.services.MediaDeleteService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:387:9-389:52
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:389:13-49
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:388:13-65
+service#org.wordpress.android.ui.stats.service.StatsService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:390:9-393:52
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:393:13-49
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:392:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:391:13-58
+service#org.wordpress.android.ui.reader.services.ReaderUpdateService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:394:9-397:53
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:397:13-50
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:396:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:395:13-67
+service#org.wordpress.android.ui.reader.services.ReaderPostService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:398:9-401:51
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:401:13-48
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:400:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:399:13-65
+service#org.wordpress.android.ui.reader.services.ReaderSearchService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:402:9-405:53
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:405:13-50
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:404:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:403:13-67
+service#org.wordpress.android.ui.reader.services.ReaderCommentService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:406:9-409:54
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:409:13-51
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:408:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:407:13-68
+service#org.wordpress.android.ui.suggestion.service.SuggestionService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:410:9-413:50
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:413:13-47
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:412:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:411:13-68
+service#org.wordpress.android.ui.plans.PlanUpdateService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:414:9-417:52
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:417:13-49
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:416:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:415:13-55
+uses-library#com.sec.android.app.multiwindow
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:419:9-421:40
+	android:required
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:421:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:420:13-59
+meta-data#com.sec.android.support.multiwindow
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:423:9-425:36
+	android:value
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:425:13-33
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:424:13-63
+receiver#org.wordpress.android.ui.notifications.NotificationDismissBroadcastReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:427:9-91
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:427:19-88
+receiver#org.wordpress.android.ui.notifications.ShareAndDismissNotificationReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:428:9-90
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:428:19-87
+receiver#org.wordpress.android.networking.ConnectionChangeReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:429:9-435:20
+	android:enabled
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:431:13-36
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:430:13-64
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:432:13-434:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:433:17-79
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:433:25-76
+receiver#org.wordpress.android.ui.stats.StatsWidgetProvider
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:436:9-446:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:438:13-54
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:437:13-57
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:439:13-441:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:440:17-84
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:440:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:443:13-445:61
+	android:resource
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:445:17-58
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:444:17-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:449:9-451:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:451:13-66
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:450:13-58
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:453:9-461:20
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:455:13-36
+	android:permission
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:456:13-73
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:454:13-66
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:457:13-460:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:458:17-81
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:458:25-78
+category#${applicationId}
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:459:17-61
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:459:27-58
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+service#org.wordpress.android.GCMRegistrationIntentService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:463:9-465:40
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:465:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:464:13-57
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:467:9-78
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:467:17-75
+service#org.wordpress.android.GCMMessageService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:469:9-475:19
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:471:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:470:13-46
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:472:13-474:29
+service#org.wordpress.android.InstanceIDService
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:476:9-482:19
+	android:exported
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:478:13-37
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:477:13-46
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:479:13-481:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:480:17-80
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:480:25-77
+activity#org.wordpress.android.ui.accounts.login.MagicLinkSignInActivity
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:484:9-499:20
+	android:label
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:487:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:488:13-60
+	android:theme
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:485:13-55
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:486:13-70
+activity#org.wordpress.android.ui.HelpshiftDeepLinkReceiver
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:501:9-511:20
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:502:13-57
+meta-data#asset_statements
+ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:514:9-98
+	android:resource
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:514:52-95
+	android:name
+		ADDED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:514:20-51
+uses-sdk
+INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.8/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.6/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.4/AndroidManifest.xml:7:5-43
+MERGED from [com.optimizely:optimizely:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely/1.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.optimizely:amplitudeintegration:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/amplitudeintegration/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.optimizely:universalanalyticsintegration:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/universalanalyticsintegration/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.optimizely:optimizely-view:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-view/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.optimizely:optimizely-core:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-core/1.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.optimizely:optimizely-view:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-view/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.optimizely:mixpanelintegration:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/mixpanelintegration/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.optimizely:localyticsintegration:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/localyticsintegration/1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [org.wordpress:mediapicker:1.2.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/mediapicker/1.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:design:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:percent:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/percent/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.github.chrisbanes.photoview/library/1.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.automattic:rest:1.0.7] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.automattic/rest/1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.wordpress:graphview:3.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/graphview/3.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.wordpress:persistentedittext:1.0.1] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/persistentedittext/1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.wordpress:emailchecker2:1.1.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/emailchecker2/1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.yalantis:ucrop:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.yalantis/ucrop/1.5.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.wootric:wootric-sdk-android:2.4.7] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.xizzhu:simple-tool-tip:0.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.github.xizzhu/simple-tool-tip/0.5.0/AndroidManifest.xml:8:5-10:41
+MERGED from [org.wordpress:drag-sort-listview:0.6.1] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/drag-sort-listview/0.6.1/AndroidManifest.xml:6:5-7:35
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [org.wordpress:slidinguppanel:1.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/slidinguppanel/1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [org.wordpress:passcodelock:1.2.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/passcodelock/1.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:6:5-8:41
+MERGED from [org.thoughtcrime.ssl.pinning:AndroidPinning:1.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.thoughtcrime.ssl.pinning/AndroidPinning/1.0.0/AndroidManifest.xml:7:5-72
+MERGED from [org.wordpress:WordPressUtils:1.10.0:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressUtils/1.10.0/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [WordPress-Android.libs.networking:WordPressNetworking:unspecified:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/WordPress-Android.libs.networking/WordPressNetworking/unspecified/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.automattic:rest:1.0.7] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.automattic/rest/1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.wordpress:WordPressAnalytics:1.2.0:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressAnalytics/1.2.0/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.automattic:tracks:1.1.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.automattic/tracks/1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.6.4/AndroidManifest.xml:11:5-14:42
+MERGED from [org.wordpress:WordPressEditor:1.2:debug] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:design:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.6.4/AndroidManifest.xml:14:9-39
+	android:minSdkVersion
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+		INJECTED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml
+activity#com.optimizely.PreviewExpsActivity
+ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:11:9-15:20
+	android:screenOrientation
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:13:13-49
+	android:theme
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:14:13-51
+	android:name
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:12:13-62
+activity#com.optimizely.PreviewVarsActivity
+ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:16:9-21:20
+	android:screenOrientation
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:19:13-49
+	android:parentActivityName
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:18:13-76
+	android:theme
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:17:13-62
+activity#com.optimizely.PreviewLogActivity
+ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:22:9-27:20
+	android:screenOrientation
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:25:13-49
+	android:parentActivityName
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:24:13-76
+	android:theme
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:23:13-61
+activity#com.optimizely.EditInfoActivity
+ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:28:9-32:20
+	android:screenOrientation
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:30:13-49
+	android:theme
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from [com.optimizely:optimizely-editor:1.5.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/AndroidManifest.xml:29:13-59
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/AndroidManifest.xml:29:13-58
+activity#com.helpshift.support.activities.ParentActivity
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:16:9-18:63
+	android:theme
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:18:13-60
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:17:13-75
+activity#com.helpshift.support.HSReview
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:19:9-22:61
+	android:configChanges
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:21:13-59
+	android:theme
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:22:13-58
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:20:13-58
+service#com.helpshift.support.HSService
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:24:9-27:19
+	android:label
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:26:13-46
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:25:13-59
+service#com.helpshift.support.HSRetryService
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:28:9-31:19
+	android:label
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:29:13-64
+activity#com.helpshift.campaigns.activities.ParentActivity
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:33:9-36:20
+	android:theme
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:35:13-60
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:34:13-77
+activity#com.helpshift.supportCampaigns.NotificationActivity
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:37:9-44:75
+	android:excludeFromRecents
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:41:13-44
+	android:noHistory
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:42:13-37
+	android:configChanges
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:39:13-82
+	android:theme
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:44:13-72
+	android:taskAffinity
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:38:13-79
+service#com.helpshift.supportCampaigns.util.NotificationService
+ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.helpshift:android-helpshift-aar:4.4.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/AndroidManifest.xml:47:13-83
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/AndroidManifest.xml:2:1-516:12 reason: com.helpshift requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [org.wordpress:passcodelock:1.2.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/passcodelock/1.2.0/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [org.wordpress:passcodelock:1.2.0] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/passcodelock/1.2.0/AndroidManifest.xml:11:22-71
+activity#com.simperium.android.LoginActivity
+ADDED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:14:9-16:77
+	android:configChanges
+		ADDED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:16:13-74
+	android:name
+		ADDED from [com.simperium.android:simperium:0.6.8] /Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.simperium.android/simperium/0.6.8/AndroidManifest.xml:15:13-63

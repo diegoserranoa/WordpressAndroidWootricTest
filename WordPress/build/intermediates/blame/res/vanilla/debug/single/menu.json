@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_multiselect.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media_multiselect.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/site_picker_action_mode.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/site_picker_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_details.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media_details.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/reader_list.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/reader_list.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/edit_post.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/edit_post.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/comment_detail.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/comment_detail.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/edit_comment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/edit_comment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/menu_comments_cab.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/menu_comments_cab.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/edit_post_legacy.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/edit_post_legacy.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/menu_preview_exps.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.optimizely/optimizely-editor/1.5.0/res/menu/menu_preview_exps.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/webview.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/webview.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/menu_media_picker_action_mode.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/menu_media_picker_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/site_picker.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/site_picker.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_gallery.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media_gallery.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/categories.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/categories.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/person_detail.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/person_detail.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/hs__campaign_list_menu.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/menu/hs__campaign_list_menu.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/theme_search.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/theme_search.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/list_editor.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/list_editor.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_picker_action_mode.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/mediapicker/1.2.4/res/menu/media_picker_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_picker.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media_picker.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/reader_detail.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/reader_detail.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/post_preview.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/post_preview.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/media_edit.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/media_edit.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/theme_more.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/theme_more.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/theme.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/theme.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/hs__support_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/menu/hs__support_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/people_invite.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/people_invite.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.yalantis/ucrop/1.5.0/res/menu/ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/notifications_settings.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/notifications_settings.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/people_list.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/people_list.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/theme_web.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/menu/theme_web.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/menu/hs__campaign_list_item_menu.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/menu/hs__campaign_list_item_menu.xml"
+    }
+]

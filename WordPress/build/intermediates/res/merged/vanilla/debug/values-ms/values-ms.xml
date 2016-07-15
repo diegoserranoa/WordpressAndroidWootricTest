@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hs__csat_rating_value">
+    <item quantity="one">Anda nilaikan perkhidmatan 1 bintang.</item>
+    <item quantity="other">Anda nilaikan perkhidmatan %d bintang.</item>
+  </plurals>
+    <plurals name="hs__notification_content_title">
+    <item quantity="one">Mesej baharu daripada pihak Bantuan</item>
+    <item quantity="other">%d mesej baharu daripada pihak Bantuan</item>
+  </plurals>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> memerlukan satu atau beberapa perkhidmatan Google Play yang tidak tersedia pada masa ini. Sila hubungi pembangun untuk mendapatkan bantuan."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Dayakan perkhidmatan Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Dayakan perkhidmatan Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Dapatkan perkhidmatan Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada tablet anda."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Dapatkan perkhidmatan Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Akaun yang dinyatakan tidak wujud pada peranti ini. Sila pilih akaun yang lain."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Akaun Tidak Sah"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Sambungan data diperlukan untuk menyambung ke perkhidmatan Google Play."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Ralat Rangkaian"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ralat perkhidmatan Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Sila selesaikan tindakan yang diperlukan oleh <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Perkhidmatan Google Play memerlukan tindakan"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Tidak menyokong akses akaun daripada profil terhad."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Profil Terhad"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Ralat melog masuk ke akaun yang dinyatakan. Sila pilih akaun yang berbeza."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Gagal melog masuk"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> menghadapi masalah dengan perkhidmatan Google Play. Jika masalah berterusan, sila hubungi pembangun untuk mendapatkan bantuan."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> bergantung pada perkhidmatan Google Play, yang tidak disokong oleh peranti anda. Hubungi pengeluar untuk mendapatkan bantuan."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Perkhidmatan Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Kemas kini"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Kemaskinikan perkhidmatan Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Perkhidmatan Google Play sdg dikemaskini"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Buka pada telefon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Log masuk"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Log masuk dengan Google"</string>
+    <string name="hs__app_review_button">SEMAK</string>
+    <string name="hs__attach_screenshot_btn">Sertakan Gambar Skrin</string>
+    <string name="hs__attach_screenshot_button">LAMPIR</string>
+    <string name="hs__ca_msg">Kami sedia membantu anda!</string>
+    <string name="hs__cam_action_accept">Terima</string>
+    <string name="hs__cam_action_book_now">Tempah Sekarang</string>
+    <string name="hs__cam_action_buy_now">Beli Sekarang</string>
+    <string name="hs__cam_action_chat_now">Bual Sekarang</string>
+    <string name="hs__cam_action_decline">Tolak</string>
+    <string name="hs__cam_action_dislike">Tidak Suka</string>
+    <string name="hs__cam_action_download">Muat Turun</string>
+    <string name="hs__cam_action_later">Ingatkan Kemudian</string>
+    <string name="hs__cam_action_launch">Lihat Sekarang</string>
+    <string name="hs__cam_action_like">Suka</string>
+    <string name="hs__cam_action_no">Tidak</string>
+    <string name="hs__cam_action_open_help">Buka Bantuan</string>
+    <string name="hs__cam_action_rate">Nilai Aplikasi</string>
+    <string name="hs__cam_action_read_faq">Baca FAQ</string>
+    <string name="hs__cam_action_read_faqs">Baca FAQ</string>
+    <string name="hs__cam_action_reply">Balas</string>
+    <string name="hs__cam_action_send_feedback">Hantar Maklum Balas</string>
+    <string name="hs__cam_action_share">Kongsikan</string>
+    <string name="hs__cam_action_shop_now">Belanja Sekarang</string>
+    <string name="hs__cam_action_yes">Ya</string>
+    <string name="hs__cam_delete">Padam</string>
+    <string name="hs__cam_inbox">Peti masuk</string>
+    <string name="hs__cam_mark_as_read">Tanda sebagai sudah dibaca</string>
+    <string name="hs__cam_message">Mesej</string>
+    <string name="hs__cam_message_deleted">Mesej dipadam</string>
+    <string name="hs__cam_no_campaigns_found">Tiada mesej ditemui.</string>
+    <string name="hs__cam_select_a_message_message">Sila pilih mesej dari kiri</string>
+    <string name="hs__cam_undo">Buat asal</string>
+    <string name="hs__change_btn">Tukar</string>
+    <string name="hs__chat_hint">Taipkan mesej anda</string>
+    <string name="hs__confirmation_footer_msg">erima kasih atas mesej anda!</string>
+    <string name="hs__confirmation_msg">Adakah kami menjawab semua soalan anda?</string>
+    <string name="hs__contact_us_btn">HUBUNGI KAMI</string>
+    <string name="hs__conversation_detail_error">Sila terangkan masalah anda</string>
+    <string name="hs__conversation_end_msg">Perbualan ini telah berakhir.</string>
+    <string name="hs__conversation_header">Perbualan</string>
+    <string name="hs__conversation_started_message">
+    Mesej anda telah diterima. Terima kasih kerana menghubungi kami!
+  </string>
+    <string name="hs__copy">Copy</string>
+    <string name="hs__could_not_open_attachment_msg">Tiada aplikasi boleh melakukan tindakan ini.</string>
+    <string name="hs__could_not_reach_support_msg">Gagal menghubungi pihak bantuan</string>
+    <string name="hs__cr_msg">Apakah lagi yang kami boleh bantu?</string>
+    <string name="hs__csat_additonal_feedback_message">Maklum balas lain (opsyenal)</string>
+    <string name="hs__csat_dislike_message">Tidak Suka!</string>
+    <string name="hs__csat_like_message">Suka!</string>
+    <string name="hs__csat_message">Apakah maklum balas anda tentang pihak bantuan pelanggan kami?</string>
+    <string name="hs__csat_option_message">atau</string>
+    <string name="hs__csat_ratingbar">Sila nilaikan perkhidmatan kami.</string>
+    <string name="hs__csat_submit_toast">Terima kasih kerana menilai kami.</string>
+    <string name="hs__data_not_found_msg">Data tidak ditemui</string>
+    <string name="hs__default_notification_content_title">Bantuan</string>
+    <string name="hs__description_invalid_length_error">
+    Sila jelaskan lebih lanjut agar kami boleh membantu lebih baik
+  </string>
+    <string name="hs__dm_video_loading">Memuat Video…</string>
+    <string name="hs__done_btn">Selesai</string>
+    <string name="hs__email_hint">E-mel (opsyenal)</string>
+    <string name="hs__email_required_hint">E-mel</string>
+    <string name="hs__empty_section">Maaf! Tiada soalan tersedia di dalam bahagian ini.</string>
+    <string name="hs__faq_fetching_fail_message">Gagal untuk Memuatkan Soalan Lazim pada masa ini. Sila cuba lagi sebentar lagi…</string>
+    <string name="hs__faq_header">SOALAN LAZIM</string>
+    <string name="hs__faqs_search_footer">Tiada Soalan Lazim ditemui.</string>
+    <string name="hs__feedback_button">Maklum Balas</string>
+    <string name="hs__fetching_faqs_message">Mendapatkan jawapan anda…</string>
+    <string name="hs__file_not_found_msg">Fail tidak ditemui</string>
+    <string name="hs__file_type_audio">Audio</string>
+    <string name="hs__file_type_csv">CSV</string>
+    <string name="hs__file_type_ms_office">Office doc</string>
+    <string name="hs__file_type_pdf">PDF</string>
+    <string name="hs__file_type_rtf">RTF</string>
+    <string name="hs__file_type_text">TXT</string>
+    <string name="hs__file_type_unknown">Fail</string>
+    <string name="hs__file_type_video">Video</string>
+    <string name="hs__help_header">Bantuan</string>
+    <string name="hs__image_attachment">Lampiran gambar</string>
+    <string name="hs__image_not_available">Gambar tidak tersedia</string>
+    <string name="hs__invalid_description_error">Penerangan tidak sah</string>
+    <string name="hs__invalid_email_error">Sila masukkan alamat e-mel yang sah</string>
+    <string name="hs__mark_helpful_toast">Soalan telah ditandakan sebagai Membantu</string>
+    <string name="hs__mark_no">TIDAK</string>
+    <string name="hs__mark_unhelpful_toast">Soalan telah ditandakan sebagai Tidak Membantu</string>
+    <string name="hs__mark_yes">YA</string>
+    <string name="hs__mark_yes_no_question">Adakah ini membantu?</string>
+    <string name="hs__network_error_msg">Maaf! Berlaku kesilapan</string>
+    <string name="hs__network_unavailable_msg">Rangkaian tidak tersedia.</string>
+    <string name="hs__new_conversation_btn">MULAKAN PERBUALAN BAHARU</string>
+    <string name="hs__new_conversation_header">Perbualan Baharu</string>
+    <string name="hs__new_conversation_hint">Bagaimana kami boleh bantu?</string>
+    <string name="hs__no_search_results_message">Whoops! Kami tidak dapat menemui apa-apa untuk query</string>
+    <string name="hs__notification_content_text">PER:</string>
+    <string name="hs__permission_denied_message">Kebenaran penyimpanan diperlukan untuk mengakses paparan skrin dan memuat turun lampiran</string>
+    <string name="hs__permission_denied_snackbar_action">Tetapan</string>
+    <string name="hs__permission_not_granted">Aplikasi tidak mempunyai kebenaran untuk mengakses gambar anda</string>
+    <string name="hs__permission_rationale_snackbar_action_label">OK</string>
+    <string name="hs__question_header"> </string>
+    <string name="hs__question_helpful_message">Anda mendapati ini membantu.</string>
+    <string name="hs__question_unhelpful_message">Anda mendapati ini tidak membantu.</string>
+    <string name="hs__rate_button">Nilaikan</string>
+    <string name="hs__remove_screenshot_btn">Singkir Gambar Skrin</string>
+    <string name="hs__retry_faq_fetching_button">CUBA LAGI</string>
+    <string name="hs__review_accepted_message">Anda telah menerima permintaan semakan.</string>
+    <string name="hs__review_close_button">Tutup</string>
+    <string name="hs__review_message">
+    Jika anda gemar aplikasi kami, sila nilaikannya
+  </string>
+    <string name="hs__review_request_message">Adakah anda ingin menyemak Apl di Play Store?</string>
+    <string name="hs__review_title">Nilaikan Aplikasi Kami</string>
+    <string name="hs__screenshot_add">Tambah</string>
+    <string name="hs__screenshot_cloud_attach_error">
+    Ralat ketika melampirkan gambar skrin. Sila pilih imej yang tersedia di dalam peranti.
+  </string>
+    <string name="hs__screenshot_limit_error">Saiz gambar skrin tidak boleh melebihi %.2f MB</string>
+    <string name="hs__screenshot_remove">Singkir</string>
+    <string name="hs__screenshot_sent_msg">Gambar skrin dihantar</string>
+    <string name="hs__screenshot_upload_error_msg">Ralat ketika muat naik gambar skrin</string>
+    <string name="hs__search_footer">Gagal menemui apa yang anda cari?</string>
+    <string name="hs__search_hint">Terangkan masalah anda</string>
+    <string name="hs__search_result_message">Soalan yang mungkin sudah ada jawapan untuk anda</string>
+    <string name="hs__search_result_title">Cadangan</string>
+    <string name="hs__search_title">Cari</string>
+    <string name="hs__select_a_question_message">Sila pilih soalan dari sebelah kiri</string>
+    <string name="hs__send_anyway">HANTAR JUGA</string>
+    <string name="hs__send_msg_btn">Hantar</string>
+    <string name="hs__sending_fail_msg">Mesej tidak dihantar. Sentuh untuk cuba semula.</string>
+    <string name="hs__sending_msg">Dihantar…</string>
+    <string name="hs__solved_btn">Ya,selesai!</string>
+    <string name="hs__starting_download">Mula memuat turun…</string>
+    <string name="hs__submit_conversation_btn">Kemuka</string>
+    <string name="hs__unsolved_btn">Tidak,tidak selesai</string>
+    <string name="hs__username_blank_error">Sila masukkan nama yang sah</string>
+    <string name="hs__username_hint">Nama anda</string>
+</resources>

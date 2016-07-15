@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#9E9E9E</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <string name="act_exp_title">Experiments</string>
+    <string name="apply_button_title">Apply</string>
+    <string name="button_done">Done</string>
+    <string name="button_reset">Reset</string>
+    <string name="cd_log_row_icon">Log Type</string>
+    <string name="edit_info_ab_title">Using Edit Mode</string>
+    <string name="edit_mode_desc">Your device is in Edit Mode and ready to pair with the Optimizely editor</string>
+    <string name="exit_preview_button">Exit Edit Mode</string>
+    <string name="menu_activity">Activity Feed</string>
+    <string name="menu_quit">Quit</string>
+    <string name="navigation_section_description">Use the device to navigate between app views. The editor will display the same view as your device</string>
+    <string name="navigation_section_title">Navigation</string>
+    <string name="original_var_label">Original</string>
+    <string name="row_title_error">Error</string>
+    <string name="row_title_event">Event Fired</string>
+    <string name="start_preview_button">Start Preview Mode</string>
+    <string name="timestamp_just_now_label">Just Now</string>
+    <string name="variations_section_description">Use the Optimizely editor to select and edit the elements you wish to change.</string>
+    <string name="variations_section_title">Create Variations</string>
+    <style name="baseTheme" parent="android:Theme.Light"/>
+    <style name="editInfoTheme" parent="baseTheme">
+    </style>
+    <style name="previewExpTheme" parent="baseTheme">
+    </style>
+    <style name="previewLogTheme" parent="baseTheme">
+    </style>
+    <style name="previewVarTheme" parent="baseTheme">
+    </style>
+</resources>

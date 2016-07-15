@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
+                }
+            }
+        ]
+    }
+]

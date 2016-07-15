@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="20050532249687"
+    token="3696323812068362726" >
+
+    <task
+        name="javac"
+        duration="12154" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="213" />
+    <task
+        name="verifier"
+        duration="111" />
+
+    <artifact
+        location="/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/transforms/dex/vanilla/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="19473640879701" >
+        <artifact
+            location="/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/outputs/apk/WordPress-vanilla-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="20050532249687" >
+        <artifact
+            location="/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/transforms/dex/vanilla/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

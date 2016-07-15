@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/backup_scheme.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/backup_scheme.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/site_settings.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/site_settings.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/app_settings.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/wpcom_languages.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/wpcom_languages.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/passcode_preferences.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/passcodelock/1.2.0/res/xml/passcode_preferences.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/stats_widget_info.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/stats_widget_info.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/notifications_settings.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/notifications_settings.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/xml/account_settings.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/xml/account_settings.xml"
+    }
+]

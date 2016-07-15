@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/hs__faq_flow_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/layout-sw600dp-v13/hs__faq_flow_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/wootric_thank_you_layout.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/res/layout-sw600dp-v13/wootric_thank_you_layout.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/media_grid_progress.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw600dp/media_grid_progress.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/wootric_footer.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/res/layout-sw600dp-v13/wootric_footer.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/hs__conversation_flow_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/layout-sw600dp-v13/hs__conversation_flow_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/app_passcode_keyboard.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/passcodelock/1.2.0/res/layout-sw600dp-v13/app_passcode_keyboard.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/theme_details_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw600dp/theme_details_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/media_gallery_activity.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw600dp/media_gallery_activity.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/wootric_survey_layout.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/res/layout-sw600dp-v13/wootric_survey_layout.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/wootric_nps_layout.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/res/layout-sw600dp-v13/wootric_nps_layout.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/theme_grid_cardview_header.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw600dp/theme_grid_cardview_header.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw600dp-v13/wootric_fragment_survey.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.wootric/wootric-sdk-android/2.4.7/res/layout-sw600dp-v13/wootric_fragment_survey.xml"
+    }
+]

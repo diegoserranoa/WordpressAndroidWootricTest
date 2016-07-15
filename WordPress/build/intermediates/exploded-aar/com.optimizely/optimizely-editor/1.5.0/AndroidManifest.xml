@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.optimizely.Preview"
+    android:versionName="1.5.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <application>
+        <activity
+            android:name="com.optimizely.PreviewExpsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/previewExpTheme" >
+        </activity>
+        <activity
+            android:name="com.optimizely.PreviewVarsActivity"
+            android:parentActivityName="com.optimizely.PreviewExpsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/previewVarTheme" >
+        </activity>
+        <activity
+            android:name="com.optimizely.PreviewLogActivity"
+            android:parentActivityName="com.optimizely.PreviewExpsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/previewLogTheme" >
+        </activity>
+        <activity
+            android:name="com.optimizely.EditInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/editInfoTheme" >
+        </activity>
+    </application>
+
+</manifest>

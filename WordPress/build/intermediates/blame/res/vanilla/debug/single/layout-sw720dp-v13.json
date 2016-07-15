@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw720dp-v13/hs__faq_flow_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/layout-sw720dp-v13/hs__faq_flow_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw720dp-v13/hs__conversation_flow_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/layout-sw720dp-v13/hs__conversation_flow_fragment.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw720dp-v13/stats_activity.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw720dp/stats_activity.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw720dp-v13/stats_insights_all_time_item.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw720dp/stats_insights_all_time_item.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/layout-sw720dp-v13/theme_details_fragment.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/src/main/res/layout-sw720dp/theme_details_fragment.xml"
+    }
+]

@@ -1,0 +1,3078 @@
+[
+    {
+        "outputFile": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/values-ms/values-ms.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 280,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 280,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 132,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 132,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 204,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 204,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 131,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 131,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endColumn": 134,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 134,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 236,
+                    "endOffset": 1628
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endColumn": 236,
+                        "endOffset": 1441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1633,
+                    "endColumn": 236,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endColumn": 236,
+                        "endOffset": 1678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 133,
+                    "endOffset": 1999
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 133,
+                        "endOffset": 1812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2004,
+                    "endColumn": 185,
+                    "endOffset": 2185
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1817,
+                        "endColumn": 185,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endColumn": 123,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 123,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 176,
+                    "endOffset": 2486
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 176,
+                        "endOffset": 2299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2491,
+                    "endColumn": 121,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2304,
+                        "endColumn": 121,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 135,
+                    "endOffset": 2744
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2426,
+                        "endColumn": 135,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2749,
+                    "endColumn": 191,
+                    "endOffset": 2936
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endColumn": 191,
+                        "endOffset": 2749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2941,
+                    "endColumn": 156,
+                    "endOffset": 3093
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2754,
+                        "endColumn": 156,
+                        "endOffset": 2906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3098,
+                    "endColumn": 161,
+                    "endOffset": 3255
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2911,
+                        "endColumn": 161,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3260,
+                    "endColumn": 124,
+                    "endOffset": 3380
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3073,
+                        "endColumn": 124,
+                        "endOffset": 3193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3385,
+                    "endColumn": 180,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3198,
+                        "endColumn": 180,
+                        "endOffset": 3374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 124,
+                    "endOffset": 3686
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3379,
+                        "endColumn": 124,
+                        "endOffset": 3499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3691,
+                    "endColumn": 260,
+                    "endOffset": 3947
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 260,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3952,
+                    "endColumn": 262,
+                    "endOffset": 4210
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3504,
+                        "endColumn": 262,
+                        "endOffset": 3762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4215,
+                    "endColumn": 127,
+                    "endOffset": 4338
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3767,
+                        "endColumn": 127,
+                        "endOffset": 3890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4343,
+                    "endColumn": 110,
+                    "endOffset": 4449
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3895,
+                        "endColumn": 110,
+                        "endOffset": 4001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4454,
+                    "endColumn": 205,
+                    "endOffset": 4655
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4006,
+                        "endColumn": 205,
+                        "endOffset": 4207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4660,
+                    "endColumn": 136,
+                    "endOffset": 4792
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4212,
+                        "endColumn": 136,
+                        "endOffset": 4344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4797,
+                    "endColumn": 229,
+                    "endOffset": 5022
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4349,
+                        "endColumn": 229,
+                        "endOffset": 4574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 5027,
+                    "endColumn": 141,
+                    "endOffset": 5164
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4579,
+                        "endColumn": 141,
+                        "endOffset": 4716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5169,
+                    "endColumn": 204,
+                    "endOffset": 5369
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4721,
+                        "endColumn": 204,
+                        "endOffset": 4921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5374,
+                    "endColumn": 96,
+                    "endOffset": 5466
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4926,
+                        "endColumn": 96,
+                        "endOffset": 5018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5471,
+                    "endColumn": 93,
+                    "endOffset": 5560
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 5023,
+                        "endColumn": 93,
+                        "endOffset": 5112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5565,
+                    "endColumn": 111,
+                    "endOffset": 5672
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-ms/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 5117,
+                        "endColumn": 111,
+                        "endOffset": 5224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5677,
+                    "endColumn": 55,
+                    "endOffset": 5728
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 55,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5733,
+                    "endColumn": 75,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 75,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 63,
+                    "endOffset": 5868
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 63,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5873,
+                    "endColumn": 64,
+                    "endOffset": 5933
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 64,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5938,
+                    "endColumn": 56,
+                    "endOffset": 5990
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 56,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5995,
+                    "endColumn": 67,
+                    "endOffset": 6058
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 67,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6063,
+                    "endColumn": 64,
+                    "endOffset": 6123
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 64,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6128,
+                    "endColumn": 65,
+                    "endOffset": 6189
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 65,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6194,
+                    "endColumn": 56,
+                    "endOffset": 6246
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endColumn": 56,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6251,
+                    "endColumn": 61,
+                    "endOffset": 6308
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 61,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6313,
+                    "endColumn": 62,
+                    "endOffset": 6371
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 62,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6376,
+                    "endColumn": 66,
+                    "endOffset": 6438
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 66,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6443,
+                    "endColumn": 64,
+                    "endOffset": 6503
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1226,
+                        "endColumn": 64,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6508,
+                    "endColumn": 52,
+                    "endOffset": 6556
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 52,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6561,
+                    "endColumn": 51,
+                    "endOffset": 6608
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 51,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6613,
+                    "endColumn": 65,
+                    "endOffset": 6674
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 65,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6679,
+                    "endColumn": 62,
+                    "endOffset": 6737
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 62,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6742,
+                    "endColumn": 60,
+                    "endOffset": 6798
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1525,
+                        "endColumn": 60,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6803,
+                    "endColumn": 61,
+                    "endOffset": 6860
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 61,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6865,
+                    "endColumn": 54,
+                    "endOffset": 6915
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endColumn": 54,
+                        "endOffset": 1698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6920,
+                    "endColumn": 76,
+                    "endOffset": 6992
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 76,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6997,
+                    "endColumn": 58,
+                    "endOffset": 7051
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 58,
+                        "endOffset": 1834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7056,
+                    "endColumn": 68,
+                    "endOffset": 7120
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1839,
+                        "endColumn": 68,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7125,
+                    "endColumn": 49,
+                    "endOffset": 7170
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endColumn": 49,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7175,
+                    "endColumn": 48,
+                    "endOffset": 7219
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1958,
+                        "endColumn": 48,
+                        "endOffset": 2002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7224,
+                    "endColumn": 52,
+                    "endOffset": 7272
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 52,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7277,
+                    "endColumn": 75,
+                    "endOffset": 7348
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2060,
+                        "endColumn": 75,
+                        "endOffset": 2131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7353,
+                    "endColumn": 49,
+                    "endOffset": 7398
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2136,
+                        "endColumn": 49,
+                        "endOffset": 2181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7403,
+                    "endColumn": 65,
+                    "endOffset": 7464
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2186,
+                        "endColumn": 65,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7469,
+                    "endColumn": 75,
+                    "endOffset": 7540
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2252,
+                        "endColumn": 75,
+                        "endOffset": 2323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7545,
+                    "endColumn": 87,
+                    "endOffset": 7628
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2328,
+                        "endColumn": 87,
+                        "endOffset": 2411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7633,
+                    "endColumn": 50,
+                    "endOffset": 7679
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2416,
+                        "endColumn": 50,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7684,
+                    "endColumn": 48,
+                    "endOffset": 7728
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2467,
+                        "endColumn": 48,
+                        "endOffset": 2511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7733,
+                    "endColumn": 60,
+                    "endOffset": 7789
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2516,
+                        "endColumn": 60,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7794,
+                    "endColumn": 84,
+                    "endOffset": 7874
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2577,
+                        "endColumn": 84,
+                        "endOffset": 2657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7879,
+                    "endColumn": 88,
+                    "endOffset": 7963
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2662,
+                        "endColumn": 88,
+                        "endOffset": 2746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7968,
+                    "endColumn": 59,
+                    "endOffset": 8023
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2751,
+                        "endColumn": 59,
+                        "endOffset": 2806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8028,
+                    "endColumn": 85,
+                    "endOffset": 8109
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endColumn": 85,
+                        "endOffset": 2892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8114,
+                    "endColumn": 82,
+                    "endOffset": 8192
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endColumn": 82,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8197,
+                    "endColumn": 61,
+                    "endOffset": 8254
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2980,
+                        "endColumn": 61,
+                        "endOffset": 3037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8259,
+                    "endLine": 83,
+                    "endColumn": 11,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3042,
+                        "endLine": 52,
+                        "endColumn": 11,
+                        "endOffset": 3171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 41,
+                    "endOffset": 8430
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3176,
+                        "endColumn": 41,
+                        "endOffset": 3213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8435,
+                    "endColumn": 106,
+                    "endOffset": 8537
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3218,
+                        "endColumn": 106,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8542,
+                    "endColumn": 91,
+                    "endOffset": 8629
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3325,
+                        "endColumn": 91,
+                        "endOffset": 3412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8634,
+                    "endColumn": 73,
+                    "endOffset": 8703
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3417,
+                        "endColumn": 73,
+                        "endOffset": 3486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8708,
+                    "endColumn": 92,
+                    "endOffset": 8796
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3491,
+                        "endColumn": 92,
+                        "endOffset": 3579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8801,
+                    "endColumn": 64,
+                    "endOffset": 8861
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3584,
+                        "endColumn": 64,
+                        "endOffset": 3644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8866,
+                    "endColumn": 55,
+                    "endOffset": 8917
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3649,
+                        "endColumn": 55,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8922,
+                    "endColumn": 107,
+                    "endOffset": 9025
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3705,
+                        "endColumn": 107,
+                        "endOffset": 3808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9030,
+                    "endColumn": 56,
+                    "endOffset": 9082
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3813,
+                        "endColumn": 56,
+                        "endOffset": 3865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9087,
+                    "endColumn": 79,
+                    "endOffset": 9162
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3870,
+                        "endColumn": 79,
+                        "endOffset": 3945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9167,
+                    "endColumn": 83,
+                    "endOffset": 9246
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3950,
+                        "endColumn": 83,
+                        "endOffset": 4029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9251,
+                    "endColumn": 69,
+                    "endOffset": 9316
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4034,
+                        "endColumn": 69,
+                        "endOffset": 4099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9321,
+                    "endColumn": 74,
+                    "endOffset": 9391
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4104,
+                        "endColumn": 74,
+                        "endOffset": 4174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9396,
+                    "endLine": 99,
+                    "endColumn": 11,
+                    "endOffset": 9527
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4179,
+                        "endLine": 68,
+                        "endColumn": 11,
+                        "endOffset": 4310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9532,
+                    "endColumn": 62,
+                    "endOffset": 9590
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4315,
+                        "endColumn": 62,
+                        "endOffset": 4373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9595,
+                    "endColumn": 48,
+                    "endOffset": 9639
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4378,
+                        "endColumn": 48,
+                        "endOffset": 4422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9644,
+                    "endColumn": 59,
+                    "endOffset": 9699
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4427,
+                        "endColumn": 59,
+                        "endOffset": 4482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9704,
+                    "endColumn": 57,
+                    "endOffset": 9757
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4487,
+                        "endColumn": 57,
+                        "endOffset": 4540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9762,
+                    "endColumn": 96,
+                    "endOffset": 9854
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4545,
+                        "endColumn": 96,
+                        "endOffset": 4637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9859,
+                    "endColumn": 137,
+                    "endOffset": 9992
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4642,
+                        "endColumn": 137,
+                        "endOffset": 4775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9997,
+                    "endColumn": 55,
+                    "endOffset": 10048
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4780,
+                        "endColumn": 55,
+                        "endOffset": 4831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10053,
+                    "endColumn": 78,
+                    "endOffset": 10127
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4836,
+                        "endColumn": 78,
+                        "endOffset": 4910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10132,
+                    "endColumn": 60,
+                    "endOffset": 10188
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4915,
+                        "endColumn": 60,
+                        "endOffset": 4971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10193,
+                    "endColumn": 79,
+                    "endOffset": 10268
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4976,
+                        "endColumn": 79,
+                        "endOffset": 5051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10273,
+                    "endColumn": 69,
+                    "endOffset": 10338
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5056,
+                        "endColumn": 69,
+                        "endOffset": 5121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10343,
+                    "endColumn": 53,
+                    "endOffset": 10392
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5126,
+                        "endColumn": 53,
+                        "endOffset": 5175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10397,
+                    "endColumn": 49,
+                    "endOffset": 10442
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5180,
+                        "endColumn": 49,
+                        "endOffset": 5225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10447,
+                    "endColumn": 62,
+                    "endOffset": 10505
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5230,
+                        "endColumn": 62,
+                        "endOffset": 5288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10510,
+                    "endColumn": 49,
+                    "endOffset": 10555
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5293,
+                        "endColumn": 49,
+                        "endOffset": 5338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10560,
+                    "endColumn": 49,
+                    "endOffset": 10605
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5343,
+                        "endColumn": 49,
+                        "endOffset": 5388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10610,
+                    "endColumn": 50,
+                    "endOffset": 10656
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5393,
+                        "endColumn": 50,
+                        "endOffset": 5439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10661,
+                    "endColumn": 54,
+                    "endOffset": 10711
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5444,
+                        "endColumn": 54,
+                        "endOffset": 5494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10716,
+                    "endColumn": 53,
+                    "endOffset": 10765
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5499,
+                        "endColumn": 53,
+                        "endOffset": 5548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10770,
+                    "endColumn": 51,
+                    "endOffset": 10817
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5553,
+                        "endColumn": 51,
+                        "endOffset": 5600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10822,
+                    "endColumn": 64,
+                    "endOffset": 10882
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5605,
+                        "endColumn": 64,
+                        "endOffset": 5665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10887,
+                    "endColumn": 73,
+                    "endOffset": 10956
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5670,
+                        "endColumn": 73,
+                        "endOffset": 5739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10961,
+                    "endColumn": 78,
+                    "endOffset": 11035
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5744,
+                        "endColumn": 78,
+                        "endOffset": 5818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11040,
+                    "endColumn": 87,
+                    "endOffset": 11123
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5823,
+                        "endColumn": 87,
+                        "endOffset": 5906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11128,
+                    "endColumn": 91,
+                    "endOffset": 11215
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5911,
+                        "endColumn": 91,
+                        "endOffset": 5998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11220,
+                    "endColumn": 45,
+                    "endOffset": 11261
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6003,
+                        "endColumn": 45,
+                        "endOffset": 6044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11266,
+                    "endColumn": 99,
+                    "endOffset": 11361
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6049,
+                        "endColumn": 99,
+                        "endOffset": 6144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11366,
+                    "endColumn": 43,
+                    "endOffset": 11405
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6149,
+                        "endColumn": 43,
+                        "endOffset": 6188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11410,
+                    "endColumn": 73,
+                    "endOffset": 11479
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6193,
+                        "endColumn": 73,
+                        "endOffset": 6262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11484,
+                    "endColumn": 73,
+                    "endOffset": 11553
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6267,
+                        "endColumn": 73,
+                        "endOffset": 6336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11558,
+                    "endColumn": 81,
+                    "endOffset": 11635
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6341,
+                        "endColumn": 81,
+                        "endOffset": 6418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11640,
+                    "endColumn": 77,
+                    "endOffset": 11713
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6423,
+                        "endColumn": 77,
+                        "endOffset": 6496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11718,
+                    "endColumn": 72,
+                    "endOffset": 11786
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6501,
+                        "endColumn": 72,
+                        "endOffset": 6569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 11791,
+                    "endColumn": 81,
+                    "endOffset": 11868
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6574,
+                        "endColumn": 81,
+                        "endOffset": 6651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 11873,
+                    "endColumn": 110,
+                    "endOffset": 11979
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6656,
+                        "endColumn": 110,
+                        "endOffset": 6762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 11984,
+                    "endColumn": 62,
+                    "endOffset": 12042
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6767,
+                        "endColumn": 62,
+                        "endOffset": 6825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 12047,
+                    "endColumn": 146,
+                    "endOffset": 12189
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6830,
+                        "endColumn": 146,
+                        "endOffset": 6972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 12194,
+                    "endColumn": 73,
+                    "endOffset": 12263
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6977,
+                        "endColumn": 73,
+                        "endOffset": 7046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 12268,
+                    "endColumn": 117,
+                    "endOffset": 12381
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7051,
+                        "endColumn": 117,
+                        "endOffset": 7164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 12386,
+                    "endColumn": 77,
+                    "endOffset": 12459
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7169,
+                        "endColumn": 77,
+                        "endOffset": 7242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 12464,
+                    "endColumn": 49,
+                    "endOffset": 12509
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7247,
+                        "endColumn": 49,
+                        "endOffset": 7292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 12514,
+                    "endColumn": 85,
+                    "endOffset": 12595
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7297,
+                        "endColumn": 85,
+                        "endOffset": 7378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 12600,
+                    "endColumn": 93,
+                    "endOffset": 12689
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7383,
+                        "endColumn": 93,
+                        "endOffset": 7472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 12694,
+                    "endColumn": 52,
+                    "endOffset": 12742
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 7477,
+                        "endColumn": 52,
+                        "endOffset": 7525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 12747,
+                    "endColumn": 74,
+                    "endOffset": 12817
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7530,
+                        "endColumn": 74,
+                        "endOffset": 7600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 12822,
+                    "endColumn": 67,
+                    "endOffset": 12885
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7605,
+                        "endColumn": 67,
+                        "endOffset": 7668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 12890,
+                    "endColumn": 95,
+                    "endOffset": 12981
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7673,
+                        "endColumn": 95,
+                        "endOffset": 7764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 12986,
+                    "endColumn": 57,
+                    "endOffset": 13039
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7769,
+                        "endColumn": 57,
+                        "endOffset": 7822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 13044,
+                    "endLine": 150,
+                    "endColumn": 11,
+                    "endOffset": 13142
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 7827,
+                        "endLine": 119,
+                        "endColumn": 11,
+                        "endOffset": 7925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 13147,
+                    "endColumn": 100,
+                    "endOffset": 13243
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 7930,
+                        "endColumn": 100,
+                        "endOffset": 8026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 13248,
+                    "endColumn": 67,
+                    "endOffset": 13311
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 8031,
+                        "endColumn": 67,
+                        "endOffset": 8094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 13316,
+                    "endColumn": 53,
+                    "endOffset": 13365
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 8099,
+                        "endColumn": 53,
+                        "endOffset": 8148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13370,
+                    "endLine": 156,
+                    "endColumn": 11,
+                    "endOffset": 13522
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 8153,
+                        "endLine": 125,
+                        "endColumn": 11,
+                        "endOffset": 8305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 13527,
+                    "endColumn": 101,
+                    "endOffset": 13624
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 8310,
+                        "endColumn": 101,
+                        "endOffset": 8407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 13629,
+                    "endColumn": 57,
+                    "endOffset": 13682
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8412,
+                        "endColumn": 57,
+                        "endOffset": 8465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 13687,
+                    "endColumn": 73,
+                    "endOffset": 13756
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 8470,
+                        "endColumn": 73,
+                        "endOffset": 8539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 13761,
+                    "endColumn": 95,
+                    "endOffset": 13852
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 8544,
+                        "endColumn": 95,
+                        "endOffset": 8635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 13857,
+                    "endColumn": 79,
+                    "endOffset": 13932
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 8640,
+                        "endColumn": 79,
+                        "endOffset": 8715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 13937,
+                    "endColumn": 66,
+                    "endOffset": 13999
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 8720,
+                        "endColumn": 66,
+                        "endOffset": 8782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 14004,
+                    "endColumn": 102,
+                    "endOffset": 14102
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 8787,
+                        "endColumn": 102,
+                        "endOffset": 8885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 14107,
+                    "endColumn": 60,
+                    "endOffset": 14163
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 8890,
+                        "endColumn": 60,
+                        "endOffset": 8946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 14168,
+                    "endColumn": 49,
+                    "endOffset": 14213
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 8951,
+                        "endColumn": 49,
+                        "endOffset": 8996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 14218,
+                    "endColumn": 93,
+                    "endOffset": 14307
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 9001,
+                        "endColumn": 93,
+                        "endOffset": 9090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 14312,
+                    "endColumn": 55,
+                    "endOffset": 14363
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9095,
+                        "endColumn": 55,
+                        "endOffset": 9146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 14368,
+                    "endColumn": 51,
+                    "endOffset": 14415
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 9151,
+                        "endColumn": 51,
+                        "endOffset": 9198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 14420,
+                    "endColumn": 96,
+                    "endOffset": 14512
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 9203,
+                        "endColumn": 96,
+                        "endOffset": 9295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 14517,
+                    "endColumn": 53,
+                    "endOffset": 14566
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 9300,
+                        "endColumn": 53,
+                        "endOffset": 9349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 14571,
+                    "endColumn": 54,
+                    "endOffset": 14621
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 9354,
+                        "endColumn": 54,
+                        "endOffset": 9404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 14626,
+                    "endColumn": 68,
+                    "endOffset": 14690
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 9409,
+                        "endColumn": 68,
+                        "endOffset": 9473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 14695,
+                    "endColumn": 62,
+                    "endOffset": 14753
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 9478,
+                        "endColumn": 62,
+                        "endOffset": 9536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 14758,
+                    "endColumn": 64,
+                    "endOffset": 14818
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 9541,
+                        "endColumn": 64,
+                        "endOffset": 9601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 14823,
+                    "endColumn": 80,
+                    "endOffset": 14899
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 9606,
+                        "endColumn": 80,
+                        "endOffset": 9682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 14904,
+                    "endColumn": 55,
+                    "endOffset": 14955
+                },
+                "from": {
+                    "file": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/com.helpshift/android-helpshift-aar/4.4.0/res/values-ms/values-ms.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 9687,
+                        "endColumn": 55,
+                        "endOffset": 9738
+                    }
+                }
+            }
+        ]
+    }
+]

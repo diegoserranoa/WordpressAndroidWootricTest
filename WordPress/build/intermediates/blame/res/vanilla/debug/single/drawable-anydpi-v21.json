@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_html.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_html.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_bold_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_bold_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ol_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ol_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_strikethrough_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_strikethrough_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_strikethrough_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_strikethrough_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_more_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_more_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_html_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_html_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_html_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_html_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_link.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_link.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ul_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ul_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ol.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ol.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_media_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_media_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ul_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ul_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_quote.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_quote.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_more_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_more_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_quote_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_quote_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_more.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_more.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_bold.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_bold.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_media.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_media.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_quote_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_quote_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_media_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_media_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ol_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ol_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_link_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_link_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_italic.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_italic.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_link_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_link_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_strikethrough.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_strikethrough.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_italic_disabled.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_italic_disabled.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_italic_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_italic_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_bold_highlighted.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_bold_highlighted.xml"
+    },
+    {
+        "merged": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/res/merged/vanilla/debug/drawable-anydpi-v21/format_bar_button_ul.xml",
+        "source": "/Users/nelsonriofrioazar/Developer/Diego/WordPress-Android/WordPress/build/intermediates/exploded-aar/org.wordpress/WordPressEditor/1.2/debug/res/drawable-anydpi-v21/format_bar_button_ul.xml"
+    }
+]

@@ -1,0 +1,2 @@
+-dontwarn com.optimizely.Preview.OptimizelySwitchVariationInfoView
+-keep public class com.optimizely.OptimizelyEditorModule {*;}

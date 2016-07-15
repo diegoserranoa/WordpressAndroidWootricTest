@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hs__csat_rating_value">
+    <item quantity="one">A szolgáltatásunkat 1 csillagra értékelte.</item>
+    <item quantity="other">A szolgáltatásunkat %d csillagra értékelte.</item>
+  </plurals>
+    <plurals name="hs__notification_content_title">
+    <item quantity="one">Új üzenet az Ügyfélszolgálattól</item>
+    <item quantity="other">%d új üzenet az Ügyfélszolgálattól</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="account_details">Felhasználói fiók részletei</string>
+    <string name="add">Hozzáad</string>
+    <string name="add_location">Hely hozzáadás</string>
+    <string name="all">Összes</string>
+    <string name="anonymous">Névtelen</string>
+    <string name="app_title">WordPress for Android</string>
+    <string name="author_email">Szerző e-mail</string>
+    <string name="author_name">Szerző neve</string>
+    <string name="blog_name_not_allowed">Ez a weboldal cím nem engedélyezett</string>
+    <string name="blogs">Honlapok</string>
+    <string name="blogusername">honlap-felhasználó</string>
+    <string name="browse_our_faq_button">GYIK tallózása</string>
+    <string name="cab_selected">%d kiválasztva</string>
+    <string name="cancel">Megszakítás</string>
+    <string name="caption">Felirat (nem kötelező)</string>
+    <string name="categories">Kategóriák</string>
+    <string name="category_desc">Kategória leírás (nem kötelező)</string>
+    <string name="category_parent">Kategória szülő (opcionális)</string>
+    <string name="category_refresh_error">Kategóriák frissítése sikertelen</string>
+    <string name="comment_added">Sikeres hozzászólás</string>
+    <string name="comment_status_spam">Spam</string>
+    <string name="comments_empty_list">Nincsenek hozzászólások</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazásnak legalább egy olyan Google Play-szolgáltatásra van szüksége, amely jelenleg nem érhető el. További segítségért vegye fel a kapcsolatot a fejlesztővel."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Play-szolgáltatások aktiválása"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonról."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Érvénytelen fiók"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Hálózati hiba"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Hajtsa végre a(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás számára szükséges műveletet."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Play Szolgáltatások: művelet szükséges"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Korlátozott jogokkal rendelkező profilból nem lehetséges a fiókelérés."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Korlátozott jogokkal rendelkező profil"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Hiba a megadott fiókba való bejelentkezéskor. Kérjük, válasszon egy másik fiókot."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Sikertelen bejelentkezés"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play szolgáltatásainak használata során. Ha a probléma továbbra is fennáll, vegye fel a kapcsolatot a fejlesztővel."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> használatához olyan Google Play-szolgáltatásokra van szükség, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-szolgáltatások"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"A Google Play-szolgáltatások frissülnek"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="confirm_delete_media">Kiválasztott tétel törlése?</string>
+    <string name="confirm_delete_multi_media">Kiválasztott sablon törlése?</string>
+    <string name="contact_us">Kapcsolat</string>
+    <string name="content_description_add_media">Média hozzáadása</string>
+    <string name="create_new_blog_wpcom">WordPress.com honlap létrehozása</string>
+    <string name="current_location">Jelenlegi hely</string>
+    <string name="custom_date">Egyedi dátum</string>
+    <string name="delete">Törlés</string>
+    <string name="delete_draft">Vázlat törlése</string>
+    <string name="delete_sure">Vázlat törlése</string>
+    <string name="delete_sure_page">Oldal törlése</string>
+    <string name="delete_sure_post">Bejegyzés törlése</string>
+    <string name="dlg_trashing_comments">Lomtárba küldés</string>
+    <string name="download">Média letöltés folyamatban</string>
+    <string name="draft">Vázlat</string>
+    <string name="edit_comment">Hozzászólás szerkesztése</string>
+    <string name="edit_location">Szerkeszt</string>
+    <string name="email_hint">E-mail cím</string>
+    <string name="email_invalid">Adjunk meg egy valós e-mail címet</string>
+    <string name="empty_list_default">Ez a lista üres</string>
+    <string name="error">Hiba</string>
+    <string name="error_downloading_image">Kép letöltési hiba</string>
+    <string name="error_media_upload">Hiba történt a média feltöltése közben</string>
+    <string name="error_refresh_comments">A hozzászólásokat most nem lehet frissíténi</string>
+    <string name="error_refresh_notifications">Értesitéseket most nem lehet frissíteni</string>
+    <string name="error_refresh_unauthorized_comments">A hozzászólások megtekintéséhez vagy szerkesztéséhez nincs megfelelő jogosultság</string>
+    <string name="error_refresh_unauthorized_pages">Az oldalak megtekintéséhez vagy szerkesztéséhez nincs megfelelő jogosultság</string>
+    <string name="error_refresh_unauthorized_posts">A bejegyzés megtekintéséhez vagy szerkesztéséhez nincs megfelelő jogosultság</string>
+    <string name="faq_button">GYIK</string>
+    <string name="featured">Használat kiemelt képként</string>
+    <string name="featured_in_post">Kép beillesztése a bejegyzés tartalmába</string>
+    <string name="forgot_password">Elfelejtett jelszó?</string>
+    <string name="forums">Fórumok</string>
+    <string name="gallery_error">Nem sikerült a média elemet letölteni</string>
+    <string name="help">Segítség</string>
+    <string name="help_center">Támogatói központ</string>
+    <string name="hint_comment_content">Hozzászólás</string>
+    <string name="hs__app_review_button">ÉRTÉKELÉS</string>
+    <string name="hs__attach_screenshot_btn">Képernyőkép Csatolása</string>
+    <string name="hs__attach_screenshot_button">CSATOL</string>
+    <string name="hs__ca_msg">Szívesen segítünk!</string>
+    <string name="hs__cam_action_accept">Elfogadom</string>
+    <string name="hs__cam_action_book_now">Foglalás</string>
+    <string name="hs__cam_action_buy_now">Vásárlás</string>
+    <string name="hs__cam_action_chat_now">Csevegés</string>
+    <string name="hs__cam_action_decline">Nem fogadom el</string>
+    <string name="hs__cam_action_dislike">Nem tetszik</string>
+    <string name="hs__cam_action_download">Letöltés</string>
+    <string name="hs__cam_action_later">Később</string>
+    <string name="hs__cam_action_launch">Megtekintés</string>
+    <string name="hs__cam_action_like">Tetszik</string>
+    <string name="hs__cam_action_no">Nem</string>
+    <string name="hs__cam_action_open_help">Súgó</string>
+    <string name="hs__cam_action_rate">Értékelés</string>
+    <string name="hs__cam_action_read_faq">GYIK</string>
+    <string name="hs__cam_action_read_faqs">GYIK-ek</string>
+    <string name="hs__cam_action_reply">Válasz</string>
+    <string name="hs__cam_action_send_feedback">Visszajelzés</string>
+    <string name="hs__cam_action_share">Megosztás</string>
+    <string name="hs__cam_action_shop_now">Vásárlás</string>
+    <string name="hs__cam_action_yes">Igen</string>
+    <string name="hs__cam_delete">Töröl</string>
+    <string name="hs__cam_inbox">Postaláda</string>
+    <string name="hs__cam_mark_as_read">Olvasottként jelöl</string>
+    <string name="hs__cam_message">Üzenet</string>
+    <string name="hs__cam_message_deleted">Üzenet törölve</string>
+    <string name="hs__cam_no_campaigns_found">Nincs Üzenet.</string>
+    <string name="hs__cam_select_a_message_message">Kérem, válasszon egy üzenetet balról</string>
+    <string name="hs__cam_undo">Visszavon</string>
+    <string name="hs__change_btn">Módosítás</string>
+    <string name="hs__chat_hint">Írja le az üzenetét</string>
+    <string name="hs__confirmation_footer_msg">Köszönjük, hogy üzent nekünk!</string>
+    <string name="hs__confirmation_msg">Megválaszoltuk minden kérdését?</string>
+    <string name="hs__contact_us_btn">KAPCSOLAT</string>
+    <string name="hs__conversation_detail_error">Írjuk le a problémát, amivel találkoztunk</string>
+    <string name="hs__conversation_end_msg">Ez a beszélgetés befejeződött.</string>
+    <string name="hs__conversation_header">Támogató chat</string>
+    <string name="hs__conversation_started_message">
+    Megkaptuk az üzenetét. Köszönjük, hogy kapcsolatba lépett velünk!
+  </string>
+    <string name="hs__copy">Másolat</string>
+    <string name="hs__could_not_open_attachment_msg">Nincs alkalmazás, amely ezt a művelet végre tudja hajtani</string>
+    <string name="hs__could_not_reach_support_msg">Az ügyfélszolgálat nem elérhető</string>
+    <string name="hs__cr_msg">Miben segíthetünk még?</string>
+    <string name="hs__csat_additonal_feedback_message">Egyéb visszajelzés (opcionális)</string>
+    <string name="hs__csat_dislike_message">Utáltam!</string>
+    <string name="hs__csat_like_message">Imádtam!</string>
+    <string name="hs__csat_message">Mi a visszajelzése az ügyfélszolgálatunkról?</string>
+    <string name="hs__csat_option_message">vagy</string>
+    <string name="hs__csat_ratingbar">Kérjük, értékelje a szolgáltatásunkat.</string>
+    <string name="hs__csat_submit_toast">Köszönjük az értékelését.</string>
+    <string name="hs__data_not_found_msg">Az adat nem található</string>
+    <string name="hs__default_notification_content_title">Ügyfélszolgálat</string>
+    <string name="hs__description_invalid_length_error">
+    A jobb segítségnyújtás érdekében, kérjük, írja le pontosabban"
+  </string>
+    <string name="hs__dm_video_loading">Videó Betöltése…</string>
+    <string name="hs__done_btn">Kész</string>
+    <string name="hs__email_hint">E-mail (opcionális)</string>
+    <string name="hs__email_required_hint">E-mail</string>
+    <string name="hs__empty_section">Sajnáljuk! Nincs elérhető kérdés ebben a szekcióban.</string>
+    <string name="hs__faq_fetching_fail_message">GYIK betöltése jelenleg nem lehetséges. Kérem, próbálja újra később…</string>
+    <string name="hs__faq_header">GYIK</string>
+    <string name="hs__faqs_search_footer">Nem található GYIK.</string>
+    <string name="hs__feedback_button">Visszajelzés</string>
+    <string name="hs__fetching_faqs_message">Válaszok keresése…</string>
+    <string name="hs__file_not_found_msg">Fájl nem található</string>
+    <string name="hs__file_type_audio">Hang</string>
+    <string name="hs__file_type_csv">CSV</string>
+    <string name="hs__file_type_ms_office">Office doc</string>
+    <string name="hs__file_type_pdf">PDF</string>
+    <string name="hs__file_type_rtf">RTF</string>
+    <string name="hs__file_type_text">TXT</string>
+    <string name="hs__file_type_unknown">Fájl</string>
+    <string name="hs__file_type_video">Videó</string>
+    <string name="hs__help_header">Segítség</string>
+    <string name="hs__image_attachment">Képmelléklet</string>
+    <string name="hs__image_not_available">A kép nem elérhető.</string>
+    <string name="hs__invalid_description_error">Érvénytelen leírás</string>
+    <string name="hs__invalid_email_error">Adjunk meg valós e-mail címet</string>
+    <string name="hs__mark_helpful_toast">Hasznosnak jelölt kérdés</string>
+    <string name="hs__mark_no">NEM</string>
+    <string name="hs__mark_unhelpful_toast">Nem Hasznosnak jelölt kérdés</string>
+    <string name="hs__mark_yes">IGEN</string>
+    <string name="hs__mark_yes_no_question">Hasznos volt az információ?</string>
+    <string name="hs__network_error_msg">Hoppá! Valami rosszul sült el</string>
+    <string name="hs__network_unavailable_msg">A hálózat nem elérhető.</string>
+    <string name="hs__new_conversation_btn">ÚJ BESZÉLGETÉS INDÍTÁSA</string>
+    <string name="hs__new_conversation_header">Támogató chat</string>
+    <string name="hs__new_conversation_hint">Miben segíthetünk?</string>
+    <string name="hs__no_search_results_message">Hoppá! query keresésre nincs találat.</string>
+    <string name="hs__notification_content_text">V:</string>
+    <string name="hs__permission_denied_message">Képernyőképekhez való hozzáféréshez és csatolmányok letöltéséhez tárolási engedély szükséges</string>
+    <string name="hs__permission_denied_snackbar_action">Beállítások</string>
+    <string name="hs__permission_not_granted">Az alkalmazás hozzáférése fényképeihez nem engedélyezett</string>
+    <string name="hs__permission_rationale_snackbar_action_label">OKÉ</string>
+    <string name="hs__question_header"> </string>
+    <string name="hs__question_helpful_message">Hasznosnak találta.</string>
+    <string name="hs__question_unhelpful_message">Nem találta hasznosnak.</string>
+    <string name="hs__rate_button">Értékel</string>
+    <string name="hs__remove_screenshot_btn">Képernyőkép Eltávolítása</string>
+    <string name="hs__retry_faq_fetching_button">ÚJRA</string>
+    <string name="hs__review_accepted_message">Elfogadta a felkérést az értékelésre.</string>
+    <string name="hs__review_close_button">Bezárás</string>
+    <string name="hs__review_message">
+    Ha tetszik az alkalmazásunk, szánjon egy kis időt rá, hogy értékelje
+  </string>
+    <string name="hs__review_request_message">Szeretné értékelni az alkalmazást a Play Store-on?</string>
+    <string name="hs__review_title">Értékelje az Alkalmazásunkat</string>
+    <string name="hs__screenshot_add">Hozzáadás</string>
+    <string name="hs__screenshot_cloud_attach_error">
+    Hiba a képernyőkép csatolása közben. Kérjük, válasszon egy képet, amely helyileg elérhető a készüléken.
+  </string>
+    <string name="hs__screenshot_limit_error">A képernyőkép nem lehet nagyobb, mint %.2f MB</string>
+    <string name="hs__screenshot_remove">Eltávolítás</string>
+    <string name="hs__screenshot_sent_msg">Képernyőkép elküldve</string>
+    <string name="hs__screenshot_upload_error_msg">Hiba a képernyőkép feltöltése közben</string>
+    <string name="hs__search_footer">Nem találja amit keres?</string>
+    <string name="hs__search_hint">Írja le a problémáját</string>
+    <string name="hs__search_result_message">Kérdések, amelyek esetleg megválaszolják a kérdését</string>
+    <string name="hs__search_result_title">Javaslatok</string>
+    <string name="hs__search_title">Keresés</string>
+    <string name="hs__select_a_question_message">Kérem, válasszon egy kérdést balról</string>
+    <string name="hs__send_anyway">KÜLDÉS MINDENKÉPPEN</string>
+    <string name="hs__send_msg_btn">Küldés</string>
+    <string name="hs__sending_fail_msg">Üzenet nincs elküldve. Érintéssel újraküldheti.</string>
+    <string name="hs__sending_msg">Küldés…</string>
+    <string name="hs__solved_btn">Igen, megoldott!</string>
+    <string name="hs__starting_download">Letöltés indítása…</string>
+    <string name="hs__submit_conversation_btn">Elküldés</string>
+    <string name="hs__unsolved_btn">Nem, megoldatlan</string>
+    <string name="hs__username_blank_error">Adjunk meg valós nevet</string>
+    <string name="hs__username_hint">Neve</string>
+    <string name="httppassword">HTTP jelszó</string>
+    <string name="httpuser">HTTP felhasználónév</string>
+    <string name="image_alignment">Kép igazítás</string>
+    <string name="images">Kép</string>
+    <string name="immediately">Azonnal</string>
+    <string name="incorrect_credentials">Hibás felhasználónév vagy jelszó.</string>
+    <string name="invalid_email_message">Az email cím hibás</string>
+    <string name="link_enter_url">URL</string>
+    <string name="loading">Betöltés</string>
+    <string name="location">Földrajzi hely</string>
+    <string name="media">Média</string>
+    <string name="media_add_new_media_gallery">Galéria létrehozása</string>
+    <string name="media_add_popup_capture_photo">Fénykép készítése</string>
+    <string name="media_add_popup_capture_video">Videó készítése</string>
+    <string name="media_edit_caption_hint">A feliratot itt lehet megadni</string>
+    <string name="media_edit_caption_text">Felirat</string>
+    <string name="media_edit_description_hint">A leírást itt lehet megadni</string>
+    <string name="media_edit_description_text">Leírás</string>
+    <string name="media_edit_failure">A feltöltés nem sikerült</string>
+    <string name="media_edit_success">Frissítve</string>
+    <string name="media_edit_title_hint">Címsor megadása</string>
+    <string name="media_edit_title_text">Cím</string>
+    <string name="media_empty_list">Nincs média</string>
+    <string name="media_empty_list_custom_date">Ebben az időintervallumban nincs média</string>
+    <string name="media_error_no_permission">Nincs elég jogosultság a médiatár megtekitéséhez</string>
+    <string name="media_gallery_image_order_random">Véletlenszerű</string>
+    <string name="media_gallery_image_order_reverse">Megfordítás</string>
+    <string name="media_gallery_settings_title">Galléria beálitások</string>
+    <string name="media_gallery_type">Típus</string>
+    <string name="media_gallery_type_circles">Körök</string>
+    <string name="media_gallery_type_slideshow">Diavetítés</string>
+    <string name="media_gallery_type_squares">Négyzetek</string>
+    <string name="media_gallery_type_tiled">Mozaik</string>
+    <string name="mnu_comment_spam">Spam</string>
+    <string name="mnu_comment_trash">Lomtár</string>
+    <string name="mnu_comment_unspam">Nem spam</string>
+    <string name="more">Bövebben</string>
+    <string name="more_notifications">és %d további.</string>
+    <string name="new_blog_wpcom_created">WordPress.com honlap létrehozva!</string>
+    <string name="new_notifications">%d új értesítés</string>
+    <string name="no">Nem</string>
+    <string name="no_network_message">Nincs elérehtő hálózat</string>
+    <string name="no_network_title">Nincs elérhető hálózat</string>
+    <string name="none">Egyik sem</string>
+    <string name="note_reply_successful">Válasz elküldve</string>
+    <string name="notification_blink">Figyelmeztető fényjelzés</string>
+    <string name="notification_sound">Figyelmeztető hang lejátszása</string>
+    <string name="notification_vibrate">Rezgés</string>
+    <string name="notifications">Értesítések</string>
+    <string name="notifications_empty_list">Nincsenek értesítések</string>
+    <string name="ok">OK</string>
+    <string name="older_last_week">Egy hétnél régebbi</string>
+    <string name="older_month">Egy hónapnál régebbi</string>
+    <string name="older_two_days">2 napnál régebbi</string>
+    <string name="on"> -</string>
+    <string name="out_of_memory">Az eszköz memóriája megtelt</string>
+    <string name="page">Oldal</string>
+    <string name="page_id">Oldal</string>
+    <string name="pages">Oldalak</string>
+    <string name="pages_empty_list">Még nincs egy oldal sem. Létrehozzunk egyet?</string>
+    <string name="passcode_change_passcode">Azonosító kód változtatása</string>
+    <string name="passcode_enter_old_passcode">Régi azonosító kód megadása</string>
+    <string name="passcode_enter_passcode">Azonosító kód megadása</string>
+    <string name="passcode_manage">Azonosító kód kezelése</string>
+    <string name="passcode_preference_title">Azonosítókód lezárás</string>
+    <string name="passcode_re_enter_passcode">Azonosító kód újbóli megadása</string>
+    <string name="passcode_set">Azonosító kód megadva</string>
+    <string name="passcode_turn_off">Azonosító kódos védelem kikapcsolása</string>
+    <string name="passcode_turn_on">Azonosító kódos védelem bekapcsolása</string>
+    <string name="password">Jelszó</string>
+    <string name="pending_review">Áttekintésre várakozik</string>
+    <string name="post">Bejegyzés</string>
+    <string name="post_content">Tartalom (éritsük meg szöveg és média hozzáadásához)</string>
+    <string name="post_excerpt">Kivonat</string>
+    <string name="post_id">Bejegyzés</string>
+    <string name="post_password">Jelszó (opcionális)</string>
+    <string name="post_private">Magánjellegű</string>
+    <string name="post_settings">Bejegyzés beálitások</string>
+    <string name="posts">Bejegyzés</string>
+    <string name="preference_send_usage_stats">Statisztika küldés</string>
+    <string name="preview">Előnézet</string>
+    <string name="preview_page">Oldal előnézet</string>
+    <string name="preview_post">Bejegyzés előnézet</string>
+    <string name="ptr_tip_message">Tipp: A frissítéshez húzzuk le</string>
+    <string name="publish_date">Közzététel</string>
+    <string name="publish_post">Közzétéve</string>
+    <string name="quickpress_add_alert_title">Hivatkozás neve</string>
+    <string name="quickpress_add_error">A hivatkozás neve nem lehet üres</string>
+    <string name="quickpress_window_title">Válasszunk egy honlapot a QuickPress rövidcímhez</string>
+    <string name="reader">Olvasó</string>
+    <string name="reader_btn_follow">Követés</string>
+    <string name="reader_empty_comments">Vélemény?</string>
+    <string name="reader_empty_posts_in_tag">Ezzel a címkével nincs bejegyzés jelölve</string>
+    <string name="reader_empty_posts_liked">Még egy bejegyzés sincs tetszettként jelölve</string>
+    <string name="reader_empty_recommended_blogs">Nincsenek ajánlott blogok</string>
+    <string name="reader_label_comment_count_multi">%,d hozzászólás</string>
+    <string name="reader_label_followed_blog">Követett blogok</string>
+    <string name="reader_menu_block_blog">Blog tiltása</string>
+    <string name="reader_page_followed_tags">Követett címkék</string>
+    <string name="reader_title_subs">Címkék és blogok</string>
+    <string name="reader_toast_blog_blocked">Ennek a blognak a bejegyzései a továbbiakban nem jelennek meg</string>
+    <string name="reader_toast_err_already_follow_blog">Ezt a blogot már követjük</string>
+    <string name="reader_toast_err_block_blog">Nem sikerült a blog letiltása</string>
+    <string name="reader_toast_err_follow_blog">Nem lehetséges ezt a blogot követni</string>
+    <string name="reader_toast_err_generic">A művelet végrehajtása nem sikerült</string>
+    <string name="reader_toast_err_unfollow_blog">Nem sikerült ezt a blogot követni</string>
+    <string name="refresh">Frissítés</string>
+    <string name="reply">Válasz</string>
+    <string name="save">Mentés</string>
+    <string name="saving">Mentés...</string>
+    <string name="scaled_image">Átméretezett kép szélessége</string>
+    <string name="schedule_verb">Időzítés</string>
+    <string name="scheduled">Időzítve</string>
+    <string name="sdcard_message">SD kártya csatlakoztatása szükséges a média feltötéshez</string>
+    <string name="sdcard_title">SD kártya szükséges</string>
+    <string name="search_current_location">Hely meghatározás</string>
+    <string name="search_location">Keresés</string>
+    <string name="select_photo">Válasszunk egy képet a galériából</string>
+    <string name="select_video">Videó választása a galériából</string>
+    <string name="settings">Beállítások</string>
+    <string name="share_action">Megosztás</string>
+    <string name="share_action_post">Új bejegyzés</string>
+    <string name="share_action_title">Hozzáadás...</string>
+    <string name="share_url">URL megosztása</string>
+    <string name="sign_in">Bejelentkezés</string>
+    <string name="ssl_certificate_error">Érvénytelen SSL hitelesítés</string>
+    <string name="stats">Statisztika</string>
+    <string name="stats_bar_graph_empty">Nincsenek elérhető statisztikák</string>
+    <string name="stats_empty_comments">Nincsenek még hozzászólások</string>
+    <string name="stats_entry_authors">Szerző</string>
+    <string name="stats_entry_country">ország</string>
+    <string name="stats_entry_posts_and_pages">Fejléc</string>
+    <string name="stats_entry_referrers">Hivatkozók</string>
+    <string name="stats_entry_tags_and_categories">Téma</string>
+    <string name="stats_timeframe_days">nap</string>
+    <string name="stats_timeframe_months">hónap</string>
+    <string name="stats_timeframe_today">Ma</string>
+    <string name="stats_timeframe_weeks">hét</string>
+    <string name="stats_timeframe_yesterday">Tegnap</string>
+    <string name="stats_totals_clicks">Kattintások</string>
+    <string name="stats_totals_plays">Lejátszások</string>
+    <string name="stats_totals_views">Megtekintések</string>
+    <string name="stats_view_clicks">Kattintások</string>
+    <string name="stats_view_referrers">Hivatkozások</string>
+    <string name="stats_view_tags_and_categories">Címkék és kategóriák</string>
+    <string name="stats_view_visitors_and_views">Látogatók és megtekintések</string>
+    <string name="status">Állapot</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tags_separate_with_commas">Címkék (vesszővel elválasztva)</string>
+    <string name="theme_activate_button">Bekapcsolás</string>
+    <string name="theme_activating_button">Aktiválás</string>
+    <string name="theme_auth_error_title">Nem sikerült a sablonok betöltése</string>
+    <string name="theme_fetch_failed">A sablonok lekérdezése nem sikerült</string>
+    <string name="theme_premium_theme">Prémium sablon</string>
+    <string name="theme_set_success">Sikerült beállítani a sablont!</string>
+    <string name="themes">Sablonok</string>
+    <string name="themes_details_label">Részletek</string>
+    <string name="themes_features_label">Funkciók</string>
+    <string name="title">Címsor</string>
+    <string name="today">Ma</string>
+    <string name="tos">Szolgáltatási feltételek</string>
+    <string name="unattached">Független</string>
+    <string name="untitled">Cím nélküli</string>
+    <string name="update_verb">Frissítést</string>
+    <string name="upload">Feltöltés</string>
+    <string name="upload_failed">Sikertelen feltöltés</string>
+    <string name="upload_full_size_image">Feltöltés és hivatkozás a teljes képhez</string>
+    <string name="upload_scaled_image">Feltöltés és hivatkozás az átméretezett képre</string>
+    <string name="username">Felhasználó név</string>
+    <string name="username_must_be_at_least_four_characters">Felhasználó névnek legalább 4 karakter hosszúnak kell lenni</string>
+    <string name="version">verzió</string>
+    <string name="width">Szélesség</string>
+    <string name="wordpress_blog">WordPress blog</string>
+    <string name="yes">Igen</string>
+</resources>

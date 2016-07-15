@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <color name="wootric_brand_color">#4A4A4A</color>
+    <color name="wootric_dark_gray">#9b9b9b</color>
+    <color name="wootric_dark_with_alpha">#66000000</color>
+    <color name="wootric_edit_text_background">#05000000</color>
+    <color name="wootric_edit_text_border">#19000000</color>
+    <color name="wootric_green">#7da52d</color>
+    <color name="wootric_rating_bar">#B9B9B9</color>
+    <color name="wootric_score_color">#E91E63</color>
+    <color name="wootric_social">#2F80C1</color>
+    <color name="wootric_survey_layout_header_background">#2196F3</color>
+    <dimen name="wootric_anchors_margin_bottom">24dp</dimen>
+    <dimen name="wootric_anchors_text_size">12sp</dimen>
+    <dimen name="wootric_btn_padding">4dp</dimen>
+    <dimen name="wootric_button_height">36dp</dimen>
+    <dimen name="wootric_button_margin">8dp</dimen>
+    <dimen name="wootric_button_padding">8dp</dimen>
+    <dimen name="wootric_button_text">12sp</dimen>
+    <dimen name="wootric_et_feedback_padding">16dp</dimen>
+    <dimen name="wootric_et_feedback_text_size">16sp</dimen>
+    <dimen name="wootric_not_selected_score_text_size">12dp</dimen>
+    <dimen name="wootric_rating_bar_padding_vertical">24dp</dimen>
+    <dimen name="wootric_rating_notch_margin_horizontal">8dp</dimen>
+    <dimen name="wootric_rating_notch_radius">4dp</dimen>
+    <dimen name="wootric_rating_track_width">2dp</dimen>
+    <dimen name="wootric_score_layout_height">24dp</dimen>
+    <dimen name="wootric_score_layout_padding_horizontal">4dp</dimen>
+    <dimen name="wootric_selected_score_text_size">18dp</dimen>
+    <dimen name="wootric_social_drawable_padding">8dp</dimen>
+    <dimen name="wootric_social_height">48dp</dimen>
+    <dimen name="wootric_social_text_size">18sp</dimen>
+    <dimen name="wootric_social_tv_padding_vertical">16dp</dimen>
+    <dimen name="wootric_survey_layout_body_padding">24dp</dimen>
+    <dimen name="wootric_survey_layout_header_padding">32dp</dimen>
+    <dimen name="wootric_survey_layout_header_text_size">24sp</dimen>
+    <dimen name="wootric_thank_you_action_button_margin">16dp</dimen>
+    <dimen name="wootric_thank_you_layout_padding">24dp</dimen>
+    <dimen name="wootric_tv_thank_you_margin">16dp</dimen>
+    <dimen name="wootric_tv_thank_you_size">24sp</dimen>
+    <integer name="wootric_max_score">10</integer>
+    <integer name="wootric_min_score">0</integer>
+    <string name="fa_facebook"></string>
+    <string name="fa_facebook_official"></string>
+    <string name="fa_facebook_square"></string>
+    <string name="fa_thumbs_o_up"></string>
+    <string name="fa_thumbs_up"></string>
+    <string name="fa_twitter"></string>
+    <string name="fa_twitter_square"></string>
+    <string name="no_thanks">No thanks…</string>
+    <string name="tv_facebook">Share on Facebook</string>
+    <string name="tv_facebook_like">Like Us on Facebook</string>
+    <string name="tv_twitter">Share on Twitter</string>
+    <string name="wootric">"Wootric"</string>
+    <string name="wootric_btn_thank_you_action">Get 20% off your next order</string>
+    <string name="wootric_custom_thank_you">Custom thank you</string>
+    <string name="wootric_example_anchor_likely">Extremely likely</string>
+    <string name="wootric_example_anchor_not_likely">Not at all likely</string>
+    <string name="wootric_example_btn_dismiss">DISMISS</string>
+    <string name="wootric_example_btn_edit_score">EDIT SCORE</string>
+    <string name="wootric_example_btn_submit">SUBMIT</string>
+    <string name="wootric_example_followup_placeholder">Anything else we should know?</string>
+    <string name="wootric_example_nps_question">How likely are you to recommend Wootric to a friend or coworker?</string>
+    <string name="wootric_feedback_question">Care to tell us why?</string>
+    <string name="wootric_powered_by">"Powered by "</string>
+    <string name="wootric_thank_you">Thanks for your feedback!</string>
+    <string name="x">X</string>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_up_dialog</item>
+        <item name="android:windowExitAnimation">@anim/slide_down_dialog</item>
+    </style>
+    <style name="DialogSlideAnim" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style>
+    <style name="TextViewGreen">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/wootric_green</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

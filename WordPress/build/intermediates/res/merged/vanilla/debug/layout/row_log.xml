@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:minHeight="?android:attr/listPreferredItemHeight"
+                android:mode="twoLine"
+                android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+                android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+                android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+                android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+                tools:targetApi="ice_cream_sandwich">
+
+    <FrameLayout
+        android:id="@+id/iconFrame"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_width="18dp"
+        android:layout_marginRight="8dp"
+        android:layout_height="18dp">
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_gravity="center"
+            tools:src="@drawable/ic_info_black_18dp"
+            android:tint="@color/accent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/cd_log_row_icon"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/type"
+        tools:text="Error"
+        android:singleLine="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/iconFrame"
+        android:layout_toEndOf="@id/iconFrame"
+        android:layout_alignBaseline="@id/iconFrame"
+        android:layout_toLeftOf="@+id/timeStamp"
+        android:layout_toStartOf="@+id/timeStamp"
+        android:textAppearance="?android:attr/textAppearanceListItem"/>
+
+    <TextView
+        android:id="@+id/desc"
+        tools:text="Experiment Description can be pretty long"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/type"
+        android:layout_alignStart="@id/type"
+        android:layout_below="@id/type"
+        android:textAppearance="?android:attr/textAppearanceListItemSecondary"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        tools:targetApi="lollipop"/>
+
+    <TextView
+        android:id="@id/timeStamp"
+        android:layout_alignTop="@id/type"
+        android:textAppearance="?android:attr/textAppearanceListItemSecondary"
+        android:layout_alignParentEnd="true"
+        android:singleLine="true"
+        android:layout_alignParentRight="true"
+        tools:text="Just Now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:targetApi="lollipop"/>
+
+</RelativeLayout>
